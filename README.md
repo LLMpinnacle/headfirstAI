@@ -13,3 +13,45 @@ can you classify text using Multilevel perceptron.i will give you the amazon rev
 can you take any other model and improve the performance in challenge 1, what is the response time.
 
 **challenge 3**:
+What is FlashAttention and how does it work?
+can you write code for that?
+
+**challenge 4**:
+What is KV cache and why is it useful?
+
+**challenge 5**:
+Why is LLM inference memory-bounded?
+
+**challenge 6**:
+What are scaling laws for LLMs? what is the use for you regarding that?can you show me a demonstration.
+
+**challenge 7**:
+What is LoRA and how does it work?
+
+**challenge 8**:
+What is the difference between the Transformer and RNNs?
+
+**challenge 9**:
+Difference between LSTM and vanilla RNN.can you demo the code and explain the difference.
+
+**challenge 10**
+Difference between structured prediction and classification.
+
+**challenge 11**
+Difference between CRFs and HMMs.
+
+**challenge 12**
+What is the difference between a LM and a LLM?
+
+**challenge 13**
+Instruction tuning, in-context learning, RLHF, etc.
+
+**challenge 14**
+Pitfalls of n-gram-based metrics like ROUGE or BLEU.
+
+**challenge 15**
+Differences between encoder-only models, encoder-decoder models, and decoder-only models. Examples as well.
+
+**challenge 16**
+Why do so many models seem to be decoder-only these days?
+

@@ -73,15 +73,16 @@ interview:(https://www.youtube.com/watch?v=sGqEKzJYrNE)
 ROUGE, BLEU might work
 https://blog.vespa.ai/improving-retrieval-with-llm-as-a-judge/
 
-challenge 19:
+**challenge 19**:
 quantization techniques AWQ GPTQ papers have you read them?
 
-challenge 20:
+**challenge 20**:
 hparameter tuning and parallelization techniques?
 
-challenge 21:
+**challenge 21**:
 go deep on finetuning what are the tradeoffs why you chose one over the other
 
-challenges 22:
-can you explain RAG and its various components?
+**challenge 22**:
+can you explain RAG and its various component**s?
 
+**challenge 23**:

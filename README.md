@@ -4,6 +4,8 @@ This is inspired after a key book in Java which i have during my growing years i
 If i interview a person on DL interview , i hope the person is good in basics of ML and DL, there are lot of theories on github repos but i will try to cover what is not covered in them.
 
 most of the activitiy here will be done using pytorch. which will start with a problem statement and just reserach before going deep into the implemenation.
+
+
 **challenge 1**:
 can you classify text using Multilevel perceptron.i will give you the amazon review dataset tell me how you will approach it.
 

@@ -52,6 +52,36 @@ Pitfalls of n-gram-based metrics like ROUGE or BLEU.
 **challenge 15**
 Differences between encoder-only models, encoder-decoder models, and decoder-only models. Examples as well.
 
-**challenge 16**
+**challenge 16**:
 Why do so many models seem to be decoder-only these days?
+
+**challenge 17**:
+Should be able to code basic transformers from scratch. Implement KV caching. Understand different positional encodings techniques.
+
+**challenge 18**:
+can you tell about below topics:
+Evaluation
+Fine-tuning techniques
+RAGs
+NLP fundamentals
+
+Understanding how LLMs work (internals)
+
+what are the evaluations
+interview:(https://www.youtube.com/watch?v=sGqEKzJYrNE)
+
+ROUGE, BLEU might work
+https://blog.vespa.ai/improving-retrieval-with-llm-as-a-judge/
+
+challenge 19:
+quantization techniques AWQ GPTQ papers have you read them?
+
+challenge 20:
+hparameter tuning and parallelization techniques?
+
+challenge 21:
+go deep on finetuning what are the tradeoffs why you chose one over the other
+
+challenges 22:
+can you explain RAG and its various components?
 

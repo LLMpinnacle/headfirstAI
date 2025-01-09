@@ -86,3 +86,71 @@ go deep on finetuning what are the tradeoffs why you chose one over the other
 can you explain RAG and its various component**s?
 
 **challenge 23**:
+can you build agentic ai solution to search for needed information online.
+
+**challenge 24**:
+can you deploy the llm service for just 10 dollars a month? you are free to choose any framework.
+
+**challenge 25:**
+can you create a chatbot for FAQ from a website
+
+**challenge 26**:
+can you create a text summarization tool?
+
+**challenge 27**:
+ Sentiment Analysis on reviews dataset?
+
+ **challenge 28**:
+ can you create a talkative chatbot for understanding a concept
+
+ **challenge 29**:
+ Language Translation Service 
+
+ **challenge 30**:
+ Named Entity Recognition
+ **challenge 31**:
+ Text Classification for news articles
+
+ **challenge 32**:
+ Question Answering System
+
+ **challenge 33**:
+ Text Generation with RNN
+
+ **challenge 34**:
+ Paraphrase Detection 
+
+ **challenge 35**:
+Text-to-Speech (TTS) Synthesis
+
+**challenge 36**:
+Document Clustering
+
+
+**challenge 37**:
+Language Model Fine-Tuning
+
+**challenge 38**:
+Text Similarity Measurement
+
+**challenge 39**:
+Multi-Turn Dialogue System
+
+**challenge 40**:
+Document Summarization with Attention Mechanisms
+
+**challenge 41**:
+Text Generation with Transformers
+
+**challenge 42**:
+Named Entity Linking (NEL) System
+
+**challenge 43**:
+Speech Emotion Recognition
+
+**challenge 44**:
+Document-level Sentiment Analysis
+
+**challenge 45**
+Youtube or Podcast Summarizer
+

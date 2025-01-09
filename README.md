@@ -153,6 +153,11 @@ Speech Emotion Recognition
 **challenge 44**:
 Document-level Sentiment Analysis
 
-**challenge 45**
+**challenge 45**:
 Youtube or Podcast Summarizer
+
+**challenge 46**:
+create a dataset for a domain of your choice.
+
+
 

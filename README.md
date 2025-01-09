@@ -159,5 +159,16 @@ Youtube or Podcast Summarizer
 **challenge 46**:
 create a dataset for a domain of your choice.
 
+**challenge 47**:
+Deploy a model to aws sagemaker.
+
+**challenge 48**:
+take a github repo you like and add test cases to that and make a video of it
+
+**challenge 49**:
+use openbook kind of setup to learn all the above challenges.
+
+**challenge 50**:
+complete D2l.ai
 
 

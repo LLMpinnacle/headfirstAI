@@ -5,6 +5,8 @@ If i interview a person on DL interview , i hope the person is good in basics of
 
 most of the activitiy here will be done using pytorch. which will start with a problem statement and just reserach before going deep into the implemenation.
 
+**challenge 0**:
+implement a research paper from scratch
 
 **challenge 1**:
 can you classify text using Multilevel perceptron.i will give you the amazon review dataset tell me how you will approach it.

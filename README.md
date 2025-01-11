@@ -1,4 +1,7 @@
 # headfirstAI
+
+my favourite quote i have seen online somewhere "when life gives you lemons make a lemonade out of it"
+
 on the tutorials on generative AI that I have found online there is no such feeling of adrenaline rush, this is an attempt to create such content, hope you like it.
 
 If i interview a person on DL interview , i hope the person is good in basics of ML and DL, there are lot of theory on gen AI on github repos but i will try to cover the applied aspect of the content.
